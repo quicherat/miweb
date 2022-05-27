@@ -13,9 +13,16 @@
   }
   
   h1 {
-    color: #1b1b32;
+    color: white;
     font-size: 25px;
     font-family: 'Roboto', sans-serif;
     text-align: center;
     margin: 20px 0;
+  }
+
+  h2 {
+      color: white;
+      font-size: 20px;
+      text-align: center;
+      margin: 20px 0;
   }
